@@ -29,7 +29,7 @@ data.location=~/.task
 #include /usr/share/doc/task/rc/solarized-light-256.theme
 #include /usr/share/doc/task/rc/no-color.theme
 
-taskd.certificate=/user/fmount/.task/client.cert.pem
+taskd.certificate=/home/user/.task/client.cert.pem
 taskd.key=\/home/user/.task/client.key.pem
 taskd.ca=/home/user/.task/ca.cert.pem
 taskd.server=localhost:53589
